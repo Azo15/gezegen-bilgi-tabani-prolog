@@ -1,0 +1,1 @@
+# gezegen-bilgi-tabani-prolog
